@@ -1,0 +1,479 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact and compleat journal of all the considerable actions of the confederate fleets and armys from the opening of the campaigne, for this present year, 1695, untill the conclusion thereof.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38874</idno>
+            <idno type="STC">Wing E3594</idno>
+            <idno type="STC">ESTC R21208</idno>
+            <idno type="EEBO-CITATION">12405501</idno>
+            <idno type="OCLC">ocm 12405501</idno>
+            <idno type="VID">61383</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38874)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61383)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 938:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact and compleat journal of all the considerable actions of the confederate fleets and armys from the opening of the campaigne, for this present year, 1695, untill the conclusion thereof.</title>
+               </titleStmt>
+               <extent>[2], 22 [i.e. 30] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Military history, Modern --  17th century.</term>
+               <term>Great Britain --  History --  1689-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61383:1"/>
+            <pb facs="tcp:61383:1"/>
+            <p>An Exact and Compleat JOURNAL OF ALL THE <hi>Conſiderable Actions</hi> OF THE Confederate Fleets and Armys: From the Opening of the CAMPAIGNE, For this Preſent Year, 1695.</p>
+            <p>Untill the Concluſion thereof.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Whitlock,</hi> near <hi>Stationers-Hall.</hi> MDCXCVI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="journal">
+            <pb facs="tcp:61383:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:61383:2"/>
+            <head>A COMPLEAT JOURNAL OF ALL THE Conſiderable Actions OF THE CONFEDERATES, Both by <hi>Sea</hi> and <hi>Land</hi> for the Year, MDCXCV.</head>
+            <p>March <hi>31ſt.</hi> N. S.</p>
+            <p>THE <hi>Spaniards</hi> defeated 1200 <hi>French</hi> in <hi>Ca<g ref="char:EOLhyphen"/>talonia,</hi> killed 260, wounded 136, and made 690 Priſoners of War. As alſo another Party, whereof they killed 400, took 80, and put the reſt to Flight. The King of <hi>Spain</hi> ſent the Officers and Souldiers 12000 Crowns to be divided among them, for their good Services.</p>
+            <p>12th. <hi>Amſt.</hi> The <hi>French</hi> drew a conſiderable Body of their Troops together, to cover their Workmen that are employed in caſting up a Line, between the <hi>Lys</hi> and the <hi>Schelde</hi> in <hi>Flanders.</hi>
+            </p>
+            <pb n="2" facs="tcp:61383:3"/>
+            <p>14th. The Troops of the Allies drew together, to form a flying Camp to obſerve the <hi>French.</hi>
+            </p>
+            <p>15th. The <hi>Turks</hi> gained a Naval Victory over the <hi>Venetians,</hi> beat their Fleet, and recovered the Famous Iſland of <hi>Scio,</hi> which was immediately after abandoned by the <hi>Venetians.</hi>
+            </p>
+            <p>17th. The <hi>French</hi> finiſhed their new Line between the <hi>Lys</hi> and the <hi>Schelde,</hi> reaching from <hi>Courtrary</hi> to St. <hi>Denny,</hi> on which were employed 3000 Pioneers, they raiſed ſeve<g ref="char:EOLhyphen"/>ral Batteries, and made a Ditch before their Line 8 foot deep, and 24 broad; and behind it the Mareſchal <hi>de Bof<g ref="char:EOLhyphen"/>flers</hi> lies poſted with the Troops under his Command.</p>
+            <p>18th. The Marſhal <hi>de Villeroy</hi> was made General of the <hi>French</hi> Army in <hi>Flanders.</hi>
+            </p>
+            <p>The new Grand Signior declared he would Command his Army in Perſon this Campaigne.</p>
+            <p>24th. The Mareſchal <hi>de Villeroy</hi> arriv'd in the <hi>French</hi> Camp.</p>
+            <p>25th. The <hi>Trident</hi> of 64, and the <hi>Content</hi> of 54 Guns, two French-men of War, were taken by ſome Engliſh Frigots cruſing near <hi>Malta.</hi>
+            </p>
+            <p>
+               <hi>Centa</hi> a <hi>Spaniſh</hi> Garriſon in <hi>Affrica,</hi> near the <hi>Straits</hi> Mouth, continues to be beſieg'd by the <hi>Moors.</hi>
+            </p>
+            <p>26th. Captain <hi>Bembo</hi> forced on ſhore and deſtroyed 7 Sail of <hi>French</hi> Ships, near <hi>Cape de Hague</hi> and <hi>Grantance Bay,</hi> 2 of which they got off, and brought away laden with Salt and Tobacco; they alſo deſtroyed 3 more <hi>French</hi> Ships at the ſame time, and laden with the ſame Goods.</p>
+            <p>
+               <hi>Alexander Molino,</hi> General of the <hi>Morea</hi> ſucceded Ge<g ref="char:EOLhyphen"/>neral <hi>Zeno,</hi> who after he had quitted <hi>Scio</hi> deſired leave by Letters of the Senate to return home.</p>
+            <p>The Intended Siege of <hi>Cazal,</hi> by reaſon of the great Snoes and cold Weather is turn'd into a Blockade.</p>
+            <p>27th. 'Tis given out at <hi>Paris,</hi> the <hi>Dauphin</hi> will com<g ref="char:EOLhyphen"/>mand upon the <hi>Rhine,</hi> where the <hi>French</hi> are forming a Camp.</p>
+            <p>The Confederate Forces are alſo preparing to do the ſame there.</p>
+            <pb n="3" facs="tcp:61383:3"/>
+            <p>28th. Mareſchal <hi>de Villeroy</hi> view'd the new Line, and af<g ref="char:EOLhyphen"/>terwards drew off part of his Troops, eſpecially the Horſe, and Poſted them in <hi>Courtray, Minin, Tournay,</hi> and other places near at hand, leaving the reſt to guard the Line.</p>
+            <p>The <hi>Guernſey</hi> and <hi>Jarſey</hi> Privateers had taken and brought in 9 or 10 <hi>French</hi> Ships, Prizes, laden with Wine and Brandy.</p>
+            <p>Several new Frigots, Bomb-Veſſels and Advice-Boats were launced from the Docks on the <hi>Thames.</hi>
+            </p>
+            <p>29th. The <hi>French</hi> uſe all the neceſſary precautions to ſe<g ref="char:EOLhyphen"/>cure their Sea Coaſts, both in the Ocean and Mediterranean.</p>
+            <p>The <hi>Muſcovites</hi> are preparing to enter the Country of the <hi>Crim-Tartars</hi> with a very numerous Army, and to at<g ref="char:EOLhyphen"/>taque <hi>Azoff;</hi> the Czar commands in Perſons, and has ſent General <hi>Gourdon</hi> a <hi>Scotſhman</hi> with 10000 Horſe to Inveſt that place, and has left a good Army behind to ſecure his own Dominions againſt the Invaſion of the <hi>Tartars.</hi>
+            </p>
+            <p>The Elector of <hi>Saxony</hi> will ſend a conſiderable body of his Troops to the Emperors aſſiſtance in <hi>Hungary.</hi>
+            </p>
+            <p>30th. The <hi>Spaniards</hi> and <hi>Miquelets</hi> in <hi>Catalonia,</hi> defeated another Party of <hi>French</hi> of 2000 Foot, and 500 Horſe, of which they kill'd 414 upon the place, and took 500 Pri<g ref="char:EOLhyphen"/>ſoners, among them, 24 Officers, with a 100 Mules la<g ref="char:EOLhyphen"/>den with Proviſion. The King of <hi>Spain</hi> to reward theſe good Services, has given 10000 Crowns, the Queen Regent 6000, and the Queen Mother 2000, to be diſtri<g ref="char:EOLhyphen"/>buted amongſt the <hi>Miquelets</hi> and Country People in thoſe parts.</p>
+            <p>The <hi>Hope</hi> an <hi>Engliſh</hi> Frigot of 50 Guns was taken by 5 <hi>French</hi> men of War, after an obſtinate Fight, in which ſhe had 80 men kill'd and wounded, and was much diſ<g ref="char:EOLhyphen"/>able in her Maſts and Riging.</p>
+            <p>
+               <hi>May</hi> 1. Prince <hi>Eugine</hi> of <hi>Savoy,</hi> and the Governor of <hi>Milan</hi> view'd the Line of Circumvalation about <hi>Cazal,</hi> having left 5000 men to continue the Blockade of that place be<g ref="char:EOLhyphen"/>ing
+<pb n="4" facs="tcp:61383:4"/>reſolv'd to beſiege it in Form, as ſoon as the weather is proper for it.</p>
+            <p>2d. The <hi>Elector</hi> of <hi>Saxony</hi> is to Command the Emperors Army in <hi>Hungary</hi> this Campaigne, and will ſend 8000 of his beſt Troops to joyn the Imperial Army, to act againſt the <hi>Turks.</hi>
+            </p>
+            <p>3d. Prince <hi>Lewis</hi> of <hi>Badon</hi> arriv'd at <hi>Nurimburg,</hi> and has ſent orders to the Imperial Forces to take the Field out of hand.</p>
+            <p>The <hi>French</hi> are going to form a Camp near <hi>Landaw.</hi>
+            </p>
+            <p>4th. The Duke <hi>de Noailles</hi> is gone Poſt to <hi>Catalonia.</hi>
+            </p>
+            <p>5th. The Count <hi>de Montal</hi> is gone to command a body of 5 or 6000 men near <hi>Dunkirk.</hi>
+            </p>
+            <p>Monſieur <hi>de Vaubon</hi> is at St. <hi>Malo,</hi> to give the neceſſary orders for the fortifying that place.</p>
+            <p>Mareſchal <hi>Choiſeul</hi> commandeds on the Coaſt of <hi>Nor<g ref="char:EOLhyphen"/>mandy,</hi> 5 or 6000 men are to encamp for that purpoſe near <hi>Bayone.</hi> At <hi>Marſellies</hi> they have planted 200 pieces of Cannon, and 40 Mortars on Batteries. Mareſchal <hi>Tourville</hi> has been there to view theſe Works. The <hi>Genſ-d'Arms</hi> that winter'd in <hi>Savoy</hi> are order'd to <hi>Germany:</hi> And to make good the late loſſes the <hi>French</hi> have ſuffer'd in <hi>Catalonia,</hi> 3000 men are ſent thither, which before were intended for <hi>Piemont.</hi> The <hi>French</hi> are preparing to draw out their Arriere-Ban this Summer, The Poll-Tax in <hi>France</hi> produces great complaints, beſides 'twill fall ſhort, which is worſt of all, which puts the <hi>French</hi> Court upon new Methods to raiſe money; and the King himſelf is going to Alienate ſeveral of his Demeſns or Crown Lands: beſides new Edicts publiſhed for creating new Officers. The Deputies of the Clergy meet the 25th Inſtant at <hi>Paris,</hi> in order to give the King a good round ſum of Money.</p>
+            <p>6th. The Camp of the Allies broke up from <hi>Deynſe,</hi> and the Troops return'd to their Quarters, but they will have orders to march again in few days, and their Rendez<g ref="char:EOLhyphen"/>vouz will be near <hi>Lovain.</hi>
+            </p>
+            <pb n="5" facs="tcp:61383:4"/>
+            <p>7th. The <hi>French</hi> are very apprehenſive of the Confede<g ref="char:EOLhyphen"/>rates breacking into their Country, and therefore to pre<g ref="char:EOLhyphen"/>vent it, have made a Line between <hi>Haure</hi> and the <hi>Sambre</hi> Mareſchal <hi>de Villeroy</hi> is gone to meet the <hi>French</hi> King at <hi>Campeigne.</hi> The Marſhal <hi>de Boufflers</hi> in expected at <hi>Na<g ref="char:EOLhyphen"/>mur,</hi> being to command the Forces on that ſide.</p>
+            <p>8th. The <hi>Aſſiſtance,</hi> an <hi>Engliſh</hi> man of War took 4 <hi>French</hi> Ships, Prizes, 4 or 5 Leagues off <hi>Heyligeland,</hi> la<g ref="char:EOLhyphen"/>den with Wine, Brandy, Paper, Pruens and Moloſſes.</p>
+            <p>9th. The <hi>French</hi> made a way half a quarter of a League broad, from <hi>Namur</hi> to <hi>Dunkirk,</hi> for the more eaſie march of their Troops to ſuccour one another, being reſolved to keep within their Lines this Summer.</p>
+            <p>10th. Lieutenant Admiral <hi>Allimonde</hi> with ſome <hi>Dutch</hi> men of War arriv'd in the <hi>Downs,</hi>
+            </p>
+            <p>12th. The King of <hi>England</hi> embark'd at <hi>Graveſend,</hi> and arriv'd in <hi>Holland,</hi> with a Convoy of 22 Sail of Men of War, beſides Fireſhips and Tenders.</p>
+            <p>16th The General Aſſembly of the <hi>French</hi> Clergey met.</p>
+            <p>17.18, 19th. The <hi>Engliſh</hi> men of War have taken ſe<g ref="char:EOLhyphen"/>veral <hi>French</hi> Privateers, with in theſe few weeks.</p>
+            <p>20th. Admiral <hi>Ruſſell</hi> ſailed from <hi>Cadiz,</hi> towards the Coaſts of <hi>Spain.</hi>
+            </p>
+            <p>30th. The Mareſchal <hi>de Villeroy</hi> is drawing his Army to<g ref="char:EOLhyphen"/>gether at <hi>Leuzey,</hi> between <hi>Conde, Tournay</hi> and <hi>Aith.</hi>
+            </p>
+            <p>
+               <hi>June</hi> 9. The King of <hi>England</hi> arriv'd at <hi>Aerſeele,</hi> between <hi>Deynſe</hi> and <hi>Thielt,</hi> and as his Majeſty paſs'd through <hi>Gent,</hi> the ſame Honours were done to him as are Cuſtoma<g ref="char:EOLhyphen"/>ry at the Reception of a King of <hi>Spain.</hi> The Elector of <hi>Bavaria</hi> left his Camp at <hi>Ninove,</hi> where he had an Army of 40000, to come to wait upon the King.</p>
+            <p>A Party of the Allies upon the upper <hi>Rhine,</hi> advanced very near <hi>Philipsburg,</hi> and burnt there a Magazine of the the Enemies of 6000 Sacks of Wheat, and 30000 of Oats.</p>
+            <pb n="6" facs="tcp:61383:5"/>
+            <p>Monſieur <hi>Cattinat</hi> the <hi>French</hi> General lies cloſe in <hi>Dau<g ref="char:EOLhyphen"/>phine.</hi>
+            </p>
+            <p>Mareſchal <hi>de Lorge</hi> is arriv'd at <hi>Landau,</hi> where the <hi>French</hi> Army is encamp'd.</p>
+            <p>The Prince of <hi>Baden</hi> arriv'd in the Confederate Army on the <hi>Rhine,</hi> which lies encamp'd at <hi>Gartach,</hi> and is about 22000 Strong.</p>
+            <p>Mareſchal <hi>de Lorge</hi> paſs'd the <hi>Rhine</hi> with the <hi>French</hi> Ar<g ref="char:EOLhyphen"/>my, and have entrench'd themſelves near <hi>Bruchſal,</hi> being about 30000 M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n.</p>
+            <p>The <hi>French</hi> Clergy gave the King but ten Millions of Livers, which is not one Engliſh Million, when 20 were expected from them.</p>
+            <p>The Mareſchal <hi>de Noailles,</hi> the <hi>French</hi> General is fallen ſick in <hi>Catalonia,</hi> and the Duke of <hi>Vendoſme,</hi> who Com<g ref="char:EOLhyphen"/>manded in <hi>Province,</hi> is ſent to <hi>Catalonia</hi> to take the Com<g ref="char:EOLhyphen"/>mand of the Army upon him.</p>
+            <p>The Armies in <hi>Flanders</hi> are in motion, and a Body of 25000 of the Allies actually one the march to <hi>Namur.</hi>
+            </p>
+            <p>17th. The Duke of <hi>Wirtemberg</hi> is marched with the Forces under his Command, to inveſt the Fort of <hi>Kenoque,</hi> where he arriv'd the ſame afternoon, and in the Evening broke ground in order to attaque it. Major General <hi>Churchil</hi> march'd with a conſiderable Detachment from his Majeſties Camp, to joyn the Duke of <hi>Wirtemburg.</hi>
+            </p>
+            <p>The Lines and Reboubts were finiſh'd before <hi>Cazal,</hi> and a Battery was raiſed, from whence the Beſiegers fir'd, and did great Execution.</p>
+            <p>18th. The Blockade of <hi>Cazal</hi> was turn'd into a Formal Siege, the Allies begin to attaque it vigorouſly, and have already made a good progreſs.</p>
+            <p>The Grand <hi>Vizer</hi> diſgrac'd and caſt into Priſon, with all his Friends and Favorites, and their Eſtates confiſcated, towards carrying on the War, and the new Grand <hi>Viezr</hi> advanc'd by the Intereſt of the <hi>Sultana-Mother,</hi> who is a
+<pb n="7" facs="tcp:61383:5"/>young Man, without any experience in Military matters, and yet muſt command the Army under the Grand <hi>Signor,</hi> who is preparing to march to <hi>Belgrade,</hi> where the <hi>Sultans</hi> Palace is fitting up for his Highneſſes Reception.</p>
+            <p>The Confederate Army upon the <hi>Rhine,</hi> continues en<g ref="char:EOLhyphen"/>camp'd near <hi>Gartach, Steppach</hi> and <hi>Eppinghem,</hi> are very advantageouſly poſted, and have fortified their Camp very ſtrongly.</p>
+            <p>19th. The Troops of <hi>Heſſe</hi> and <hi>Lunenburgh</hi> are on the march to joyn them, when the Prince will advance to<g ref="char:EOLhyphen"/>wards the Enemy, who have no other deſign than to de<g ref="char:EOLhyphen"/>ſtroy the Forage, and then repaſs the <hi>Rhine;</hi> the Forces of <hi>Munſter</hi> are all coming up to the Allies. Mareſchal <hi>de Lorge</hi> is decamp'd from <hi>Bruchſal</hi> to <hi>Viſeloch.</hi>
+            </p>
+            <p>The Confederate Fleet under the Command of Admiral <hi>Ruſſel</hi> appear'd before <hi>Toulon,</hi> and took ſeveral ſmall Veſ<g ref="char:EOLhyphen"/>ſels. They detach'd 30 Men of War to <hi>Final,</hi> to take in and Convoy ſome <hi>Spaniſh</hi> Soldiers thence, to <hi>Catalonia.</hi> The Inhabitants of <hi>Toulon</hi> and <hi>Marſeilles,</hi> removed their beſt Effects, and were under great apprehenſions of a Bombardment. The Grand Prior, Brother to the Duke of <hi>Vendoſme,</hi> Commands the Forces in theſe Parts, being a Lieutenant General.</p>
+            <p>Mareſchal <hi>de Villeroy</hi> marched with great precipitation to defend the Lines, which he apprehended the Enemy deſign'd to force, having detached 30 Squadrons to ob<g ref="char:EOLhyphen"/>ſerve the Allies motions about <hi>Ipres.</hi>
+            </p>
+            <p>A Briſque Action happned between the Allies and the <hi>French,</hi> near Fort <hi>Kenoque,</hi> many killed and wounded on both ſides, but the Allies entrench'd themſelves and raiſed a Battery and fir'd upon the Enemy very warmly, and were preparing two Batteries more.</p>
+            <p>22d. The Elector of <hi>Bavaria</hi> ſent a Detachment under the Command of Brigadier <hi>Fagal,</hi> to attaque 800 <hi>French,</hi> who were poſted on an Eminence, on this ſide their Lines,
+<pb n="8" facs="tcp:61383:6"/>the only place from whence their works cou'd be diſco<g ref="char:EOLhyphen"/>vered, who repuls'd the <hi>French</hi> and forc'd them within their Lines.</p>
+            <p>14th. The Marquiſs of <hi>Carmarthen</hi> ſailed to the Weſt<g ref="char:EOLhyphen"/>ward, with a Squadron of men of War.</p>
+            <p>The Garriſon of <hi>Centa</hi> ſallied out upon the <hi>Moors,</hi> and beat them out of their Trenches, and fill'd them up, and kill'd a great number of them.</p>
+            <p>The <hi>French</hi> are at a prodigous Expence in fortifying the Coaſt of <hi>Province,</hi> to prevent the Confederate Fleets burning their Ships and Towns.</p>
+            <p>The Radzians defeated a Party of <hi>Turks</hi> under the Com<g ref="char:EOLhyphen"/>mand of the Baſſa of <hi>Sileſtria.</hi>
+            </p>
+            <p>Several Rencounters happen'd between Parties of the two Armies on the <hi>Rhine,</hi> and the Huſſars frequently bring in Priſoners, but ſome of 'em going to near the <hi>French</hi> Camp, were attackt by a party ſent from thence, and ſe<g ref="char:EOLhyphen"/>veral of 'em kill'd,</p>
+            <p>The Forces of <hi>Hanover, Zel</hi> and <hi>Wolfenbuttel</hi> being 3000 men, are marching to joyn the Army commanded by Prince <hi>Lewis</hi> of <hi>Baden.</hi>
+            </p>
+            <p>23d. Admiral <hi>Ruſſel</hi> continues near the Iſles of <hi>Hiores</hi> with a Fleet of 80 Sail, from whence they ſaile to <hi>Tou<g ref="char:EOLhyphen"/>lon,</hi> which allarmed the <hi>French,</hi> who had poſted 3000 Foot, and 400 Horſe near the Sea ſide, and had received 24 Gallies from <hi>Marſeills</hi> (half maned) to ſecure the Port, the enterance whereof was likewiſe ſtrengthened with Chains and Booms, and Streets unpaved, and the tops of houſes uncovered, and they had planted on Batteries 300 pieces of Canon, and 34 Mortars: the like care has been taken at <hi>Marſeilles.</hi>
+            </p>
+            <p>The Trenches are open'd before <hi>Cazal,</hi> and the Batte<g ref="char:EOLhyphen"/>ries are finiſhed, and fired from with great fury.</p>
+            <p>24th. The Duke of <hi>Vendoſme</hi> arrived in <hi>Catalonia,</hi> and had taken upon him the Command of the <hi>French</hi> Army, and
+<pb n="9" facs="tcp:61383:6"/>had made a Review of them, and found them mightily diminiſhed by ſickneſs, and ſeveral rencounters with the Enemy, and had ſent to Court for a Reinforcement.</p>
+            <p>The Earl of <hi>Athlone</hi> marched from <hi>Lovain</hi> to joyn the Forces of <hi>Brandenburgh</hi> and <hi>Liege,</hi> who are encamped near the <hi>Mehaigne.</hi>
+            </p>
+            <p>25th. The <hi>French</hi> in <hi>Kenoque</hi> have 4 ſeveral times at<g ref="char:EOLhyphen"/>tempted to regain the Poſt the Allies made themſelves Maſters of, upon their firſt coming before the place, and were as often beat back with conſiderable loſs. They have made a new Line within the Former, which cuts off <hi>Kenoque,</hi> in caſe the Allies ſhould open a Paſſage that way. They have opened their Sluces, which has hindred the Works.</p>
+            <p>
+               <hi>Sept.</hi> 16. <hi>O. S.</hi> Lieutenant Admiral <hi>Allemonde</hi> arrived at <hi>Spithead</hi> with the Dutch men of War, Bombveſſels, Fireſhips, <hi>&amp;c.</hi> from <hi>Holland,</hi> and joyned my Lord <hi>Berkeley.</hi>
+            </p>
+            <p>26th. N. S. <hi>Mahomet Bey</hi> is returned to <hi>Tunis,</hi> having rgain'd all the Places the <hi>Algerines</hi> had taken from him, and was preparing to carry the War into their Territories.</p>
+            <p>Monſieur <hi>Cattinat</hi> lies ſtill, having weakned his Army by great Detachments ſent from thence to ſerve the Coaſts of <hi>Province.</hi>
+            </p>
+            <p>29th. <hi>O. S.</hi> My Lord <hi>Berkeley</hi> ſailed with the <hi>Engliſh</hi> and <hi>Dutch</hi> men of War, Bombveſſels and Fireſhips under his command, to the Coaſt of <hi>France.</hi>
+            </p>
+            <p>27th. <hi>N. S.</hi> Two thouſand <hi>Spaniſh</hi> Foot 500 Horſe, and 7000 <hi>Miquelets,</hi> attackt 8 or 9000 <hi>French,</hi> under the com<g ref="char:EOLhyphen"/>mand of Mounſieur <hi>de St. Silveſtre,</hi> to convoy 200 Mules laden with Proviſions to Caſtle <hi>Folet,</hi> and after a Diſpute of 6 hours forced the Enemy to retire in much diſorder, having killed many of their Men, and taken all the Mules except 25, who got into the Town.</p>
+            <pb n="10" facs="tcp:61383:7"/>
+            <p>A Party of 600 <hi>French</hi> Horſe and Foot were defeated, who deſign'd to intercept the Allies Bread-Wagons, and other Proviſions coming to the Army, 80 kill'd upon the place, and diverſe wounded.</p>
+            <p>28th. The King of <hi>England</hi> left the Army under the Command of the Prince <hi>de Vuademont,</hi> and came with a Guard of Horſe and Dragoons to <hi>Diſtleburg,</hi> near <hi>Gent,</hi> and from thence to <hi>Lovain,</hi> and will joyn the Forces un<g ref="char:EOLhyphen"/>der the Command of the Earl of <hi>Athlone,</hi> with thoſe of <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>randenburgh</hi> and <hi>Liege,</hi> which are marched towards <hi>Na<g ref="char:EOLhyphen"/>mur,</hi> as is likewiſe the Army commanded by the Elector of <hi>Bavaria,</hi> the Siege of that place being deſign'd, and the neceſſary preparations of Cannon, Morters, Ammu<g ref="char:EOLhyphen"/>nition and other Stores of War and Mouth being brought from <hi>Maeſtrich,</hi> to <hi>Liege</hi> and <hi>Huy;</hi> ſeveral thouſands of Pioneers are ſummon'd in from the Country round about.</p>
+            <p>Mareſchal <hi>de Lorge</hi> thought to have drawn Prince <hi>Lewis</hi> out of his ſtrong Camp, made a faint of a March, but the Prince, tho 10000 weaker than the <hi>French,</hi> wou'd not ſtir, and ſo diſappointed <hi>de Lorge,</hi> who return'd to his old Camp.</p>
+            <p>Rear Admiral <hi>Nevil</hi> arriv'd at <hi>Final,</hi> with a Squadron of men of War and Tranſport Ships, in which were embark'd 5000 Soldiers for <hi>Catalonia,</hi> as alſo 1800 Bombs, and 1600 Barrels of Powder.</p>
+            <p>The Elector of <hi>Saxony</hi> arriv'd at <hi>Viena,</hi> and was receiv'd by the Emperor and the King of the <hi>Romans,</hi> with all im<g ref="char:EOLhyphen"/>maginable Honour.</p>
+            <p>Mareſchal <hi>de Lorge</hi> fell Sick, and Mareſchal <hi>de Joyeuſe</hi> took the Command of that Army upon him.</p>
+            <p>
+               <hi>July</hi> 3d. N. S. <hi>Namur</hi> was inveſted by the Earl of <hi>Ath<g ref="char:EOLhyphen"/>lone</hi> on one ſide, and by the <hi>Brandenburghers</hi> on the other ſide of the <hi>Sambre.</hi> The King of <hi>England</hi> arriv'd in the Camp the ſame day, about 5 of the Clock in the Even<g ref="char:EOLhyphen"/>ing: the Pioneers began to work on the Lines of Circum<g ref="char:EOLhyphen"/>valation
+<pb n="11" facs="tcp:61383:7"/>and Contravalation, and lay Bridges over the <hi>Sambre</hi> and the <hi>Meuſe.</hi> 20 Battalions of <hi>Engliſh</hi> and <hi>Scots</hi> detach'd from the Army under the Command of Prince <hi>Vaudemont,</hi> are on their march on joyn the Camp before <hi>Namur;</hi> Mareſchal <hi>de Boufflers</hi> threw himſelf into the place, with ſeveral Regiments of Dragoons, and com<g ref="char:EOLhyphen"/>mands in Chief. Great numbers of Deſerters come out of the Town of the Camp, being <hi>Italians</hi> and <hi>Spaniards,</hi> taken at the Battle of <hi>Martiglia</hi> in <hi>Piemont.</hi> The Garriſon conſiſts of 19 Battalions of Foot, and 8 Regiments of Dragoons, 2 whereof are mounted, the Horſes of the reſt being ſent away.</p>
+            <p>The Marquis of <hi>Carmathen</hi> ſail'd from <hi>Plymoth.</hi>
+            </p>
+            <p>1ſt. <hi>O. S.</hi> The Fleet commanded by may Lord <hi>Berke<g ref="char:EOLhyphen"/>ley</hi> arrived at <hi>Guernſey,</hi> and ſails to morrow towards St. <hi>Malo.</hi>
+            </p>
+            <p>7th. <hi>NS.</hi> The Confederate Army before <hi>Cazal</hi> conſiſts of about 30000 men, and puſh the Siege on with good ſucceſs,</p>
+            <p>Prince <hi>Lewis</hi> of <hi>Badens</hi> Army decamp'd and came near<g ref="char:EOLhyphen"/>er the Enemy.</p>
+            <p>8th. The Duke of <hi>Savoy</hi> attaques the Town and Citi<g ref="char:EOLhyphen"/>dal of <hi>Cazal</hi> at the ſame time, and hears no new of Mon<g ref="char:EOLhyphen"/>ſiuer <hi>Cattinet,</hi> whoſe Army is too weak to make head a<g ref="char:EOLhyphen"/>gainſt him, while his Forces continues on the Sea Coaſts to ſecure them from Admiral <hi>Ruſſel.</hi>
+            </p>
+            <p>The Army before <hi>Namur</hi> conſiſts of 90 Battalions of Foot. The Horſe under the Earl of <hi>Athlone</hi> are poſted at <hi>Pioton.</hi>
+            </p>
+            <p>9th. The Troops before <hi>Cazal</hi> are advanced within a 100 Paces of the Counterſcarp of the Town, their Batteries have diſmounted ſeveral of the Enemies Cannon; the In<g ref="char:EOLhyphen"/>habitants murmur, and would willingly capitulate, the <hi>Spaniards</hi> have raiſed a Battery of 12 Mortars.</p>
+            <p>10th. The Imperial Army in <hi>Hungary</hi> is about 30000 ſtrong, and the <hi>Turkiſh</hi> Army at <hi>Belgrade</hi> about 20000 ſtrong.</p>
+            <pb n="12" facs="tcp:61383:8"/>
+            <p>11th. The Prince of <hi>Baden</hi> having been reinforced with the Troops he expected, decamped, and advanced towards the Enemy to attaque them, who in the Night, without ſound of Trumpet, or beat of Drum, repaſs'd the <hi>Rhine</hi> at <hi>Philipsburgh,</hi> leaving ſeveral ſickmen, Tents and Bag<g ref="char:EOLhyphen"/>gage behind 'em.</p>
+            <p>The Beſieged in <hi>Cazal,</hi> who defended a Redoubt on the other ſide the <hi>Po,</hi> withſtood two aſſaults, but finding the Allies were preparing for a third, they abandoned it, and retired into the Town, The <hi>French</hi> Court look upon this place as loſt, and are in great pain for <hi>Namur,</hi> which is vigorouſly attaqu'd.</p>
+            <p>14th. The Mareſchal <hi>de Villeroy</hi> paſs'd the River <hi>Lys</hi> near <hi>Courtray,</hi> by 5 bridges, and being reinforced by the Troops drawn out of all the <hi>French</hi> Garriſons in <hi>Flanders,</hi> and the Count <hi>de Montal</hi> joyn'd him, which made an Ar<g ref="char:EOLhyphen"/>my of 90 Battalions of Foot, and 150 Squadrons of Horſe, advanded towards the Army commanded by Prince <hi>de Vaudemont,</hi> which conſiſted only of 42 Battalions and 48 Squadrons, which however upon a ſignal by firing two pieces of Cannon, put themſelves immediately into Or<g ref="char:EOLhyphen"/>der of Battle, the Prince chang'd his Camp, poſting his Right at <hi>Arſelle,</hi> and his Left between <hi>Gramme</hi> and <hi>Hot<g ref="char:EOLhyphen"/>tum,</hi> having the Village of <hi>Woutergem</hi> in his Reer. The Night following the whole Army continued in Arms, and entrech'd themſelves, they thought the <hi>French</hi> would have attaqu'd 'em by break of day, but they did nothing but amuſe them, whilſt great part of their Forces filed off towards their Right, which kept the Prince in ſuſpence till 3 in the afternoon, when he ſaw the Enemies Battali<g ref="char:EOLhyphen"/>ons begin to plant their Colours between <hi>Canege</hi> and his Right, within 2 Muſquet ſhot of his Entrenchments, while their Horſe and Dragoons moved towards the Village of <hi>Finck,</hi> in order to get betwixt the Prince and <hi>Gent,</hi> and then to attaque his Right wing in Rear and Flanke:
+<pb n="13" facs="tcp:61383:8"/>Whereupon the Prince of <hi>Vaudemont</hi> gave orders about 4 in the afternoon for a Retreat, and having ſent way the Artilery, the whole Army marched off in very good order and made a moſt Excellent and Soldierlike Retreat, and notwithſtanding the Enemies numbers, who by reaſon of the great detachments had been made from the Princes Army to <hi>Dixmude</hi> and <hi>Namur,</hi> were ſtronger than he by almoſt 40000 men, yet the Prince continued his march without any other diſturbance, than that ſome of the E<g ref="char:EOLhyphen"/>nemies Troops charged 3 or 4 Battalions of his that were in the Rear of all, but the <hi>French</hi> were ſoon forced to re<g ref="char:EOLhyphen"/>tire, having ſeverall kill'd and wounded on both ſides. The Prince march'd all night and came to <hi>Gent</hi> the next day about 7 in the morning, and paſſing through that City, en<g ref="char:EOLhyphen"/>camp'd with the <hi>Schelde</hi> before him, where he obſerves the Enemies motions, and will march either to <hi>Bruſſels</hi> or <hi>Newport,</hi> as there ſhall be moſt occaſion. The <hi>French</hi> being enrag'd at this baulk. and unexpected diſappointment, took their Revenge on the Country People, plundring and burning in their march, without any regard even to Religious Houſes. The King of <hi>England</hi> Congratulated and Complimented the Prince of <hi>Vaudemont</hi> upon his Ex<g ref="char:EOLhyphen"/>traordinary Conduct, and told his Highneſs by Letter, that he had outdone the greateſt General of the Age, and his Retreat was more Glorious, and more advantagious to the Common Cauſe than a Victory.</p>
+            <p>The Princes Army was reinforc'd with 9 Battalions, and the Earl of <hi>Athlone</hi> ſent towards him to be near at hand.</p>
+            <p>18th. The Siege of <hi>Namur</hi> goes on very ſucceſsfully, the Beſiegers made themſelves Maſters of the Forts on the Hill and a great Retrenchment that leads to the Town, be<g ref="char:EOLhyphen"/>ing the moſt conſiderable outworks on that ſide. The at<g ref="char:EOLhyphen"/>tack was made with great Bravery and Conduct, for after a diſpute of about 2 hours, the <hi>French</hi> were beaten out, altho they had 5000 men to defend them, of whom there was a
+<pb n="12" facs="tcp:61383:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:61383:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:61383:10"/>great ſlaughter made, <hi>viz.</hi> 1600. The Beſiegers had about 4 or 500 kill'd and wounded, amongſt which ſeveral Officers of the Guards, <hi>Engliſh</hi> and <hi>Scotch.</hi>
+            </p>
+            <p>4. and 5th. <hi>O. S.</hi> The Lord <hi>Berkeley</hi> with the Fleet un<g ref="char:EOLhyphen"/>der his Command, came to an Anchor before St. <hi>Malo,</hi> and it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing reſolved immediately to Bombard the Fort on th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Quince</hi> Rock to the Weſtward, and the Battery the Enemy had raiſed to the Eaſtward, on point <hi>Danbour</hi> be<g ref="char:EOLhyphen"/>tween which is the Channel to the Town, Collonel <hi>Rich<g ref="char:EOLhyphen"/>ards</hi> was ordered to ſend three <hi>Engliſh</hi> and two <hi>Dutch</hi> Bombveſſels to the <hi>Quince Rock,</hi> and 4 other <hi>Dutch</hi> to the point <hi>Danbour,</hi> which accordingly was done with good ſucceſs againſt the <hi>Quince Fort,</hi> they fitting ſeveral Bombs into it. The next day every thing being ready to at<g ref="char:EOLhyphen"/>taque the Town, the Lord <hi>Berkeley</hi> at 4 in the morning, made the ſignal, which Captain<g ref="char:punc">▪</g> 
+               <hi>Bembo</hi> with the <hi>Engliſh</hi> and <hi>Dutch</hi> Frigats appointed to guard the Bombveſſels from the attempts of the <hi>French</hi> Gallies and Boats, ſtood into the Channel leading to the Town, and came to an Anchor near the Rock, which is about a mile and half from the Town; at the ſame time Collonel <hi>Richards</hi> with 9 <hi>Engliſh</hi> Bombveſſels anchored between Captain <hi>Bembo</hi> and the Town, and by 6 a Clock began to Bombard; all this while the Enemy fired very briskly from the ſhore, and conſidering the Batteries on the great and little Bay, Iſle <hi>Danbour,</hi> Fort <hi>Vaubon,</hi> Fort <hi>Royal, Quince</hi> Fort, <hi>&amp;c.</hi> lay all round, the damage they did was inconſiderable. The Gallies and Boats were moſt troubleſome, in taking the opportunity of the Tides, and rowing ſo near, as to gall the Line of Bombſhips: about 8 a Clock a Fire broke out to the Eaſtward of the Town, which ſmoked in ſe<g ref="char:EOLhyphen"/>veral places: the Lord <hi>Berkeley,</hi> Admiral <hi>Allemonde,</hi> and Sir <hi>Cloudeſly Shovel,</hi> came in their Boats to encourage their Men, and were very well pleaſed with the diſpoſition of the bombarding, and one Engliſh and a Dutch Fireſhip,
+<pb n="15" facs="tcp:61383:10"/>attackt the <hi>Quince</hi> Rock and lay ſo well too, that they ſet fire to the Wooden fort on the top of it, which continued about two hours, and employed the Enemy all that time; about 4 in the afternoon another great fire broke out to the Weſtward of the Town, ſo that 'twas eaſie to perceive the Town was extremely ſhattered; the bombarding was continued till 7 a clock at night, when having ſhot away all the Bombs and Carcaſſes that were brought in from their Store-ſhips, being 900 and odd; Captain <hi>Bembo</hi> who commanded the frigats and Brigantines, <hi>&amp;c.</hi> got 'em un<g ref="char:EOLhyphen"/>der Sail, and about 9 at night they all came to an anchor by the reſt of the Fleet. The whole number of men kil<g ref="char:EOLhyphen"/>led and wounded were about 60.</p>
+            <p>6th. Five <hi>Engliſh</hi> and 3 <hi>Dutch</hi> Bombſhips were ordered to <hi>Granville,</hi> which was ſoon ſet on fire, there having been 500 Bombs thrown in. The bombarding was con<g ref="char:EOLhyphen"/>tinued till 6 at night, when 'twas left all in flames, the Enemy fired from 3 pieces of Cannon and two Mortars, but did little harm.</p>
+            <p>9th. Admiral <hi>Ruſſel</hi> was forced by bad weather into the Gulph of <hi>Palma</hi> in <hi>Sardinia.</hi>
+            </p>
+            <p>10th. The Allies had advanced their approaches to the Counterſcarp of the Citadel of <hi>Cazal,</hi> and were prepa<g ref="char:EOLhyphen"/>ring to attack it, which the beſieged would not expect, but agreed with the Allies that it ſhould be ſurrendered, after being demoliſhed, the outworks by the Duke of <hi>Savoy,</hi> and the Principal Fortifications by the <hi>French,</hi> and to that end there was a Ceſſation of Arms for a month. The Allies found great quantities of Proviſion, Ammunition, Can<g ref="char:EOLhyphen"/>non, Mortars, and all Warlike Stores, which they divi<g ref="char:EOLhyphen"/>ed among 'em. The Trenches had been open but 13 days.</p>
+            <p>11th. Fort <hi>Pollard</hi> at <hi>Namur</hi> ſurrendred to the beſiegers, in which was a Garriſon of 55 choice men, under a Cap<g ref="char:EOLhyphen"/>tain, two Lieutenants, an Enſign, and Engineer and Surgeon, who were made Priſoners of War. The Counterſcarp
+<pb n="16" facs="tcp:61383:11"/>near St. <hi>Nicholas</hi> Gate was attackt very vigorouſly, and a Lodgment made, which coſt of <hi>Engliſh</hi> and <hi>Dutch</hi> about 300 men. Mr. <hi>Godfery,</hi> Deputy Governor of the Bank of <hi>England</hi> was kill'd with a Cannon ball near the King. The Duke of <hi>Bavaria</hi> attackt the <hi>Salſine,</hi> in which was 400 men, and carried it; as alſo other Works and Re<g ref="char:EOLhyphen"/>trenchments without the <hi>Cohorn</hi> Fort, upon the Hill to<g ref="char:EOLhyphen"/>wards the <hi>Sambre. Dixmude</hi> ſurrendred to the <hi>French.</hi>
+            </p>
+            <p>The <hi>Venetians</hi> obtained a Signal Victory over the <hi>Turks</hi> in the <hi>Morea.</hi>
+            </p>
+            <p>12th. <hi>Ibrahim</hi> Baſſa, had an Army of 20000 Horſe and Foot, and General <hi>Steinau</hi> but 12000, who after 5 hours fair battle defeated the Infidels, and made a great ſlaughter of them, <hi>viz.</hi> 4000 kill'd upon the place, beſides many wounded, and Priſoners; and took 10 pieces of Cannon, and 4 Mortars, all their Tents and Baggage.</p>
+            <p>20th. The <hi>French</hi> Army repaſs'd the <hi>Rhine</hi> with great precipitation. The <hi>Germans</hi> being cloſe in their Rear, and wou'd have given them battle, but they deeamp'd and ſneak'd off in the night.</p>
+            <p>24th. The <hi>French</hi> demoliſh ſeveral Places in <hi>Catalonia,</hi> not tenable.</p>
+            <p>28th. Mareſchal <hi>Joyeuſe</hi> ſent a Detachment of 16 batta<g ref="char:EOLhyphen"/>lions and as many Squadrons towards <hi>Flanders,</hi> and Prince <hi>Lewis</hi> of <hi>Badon</hi> has ſent alſo from his Army a Detachment of 10 or 12000 Horſe and Foot, which will be at the Camp before <hi>Namur</hi> before the <hi>French,</hi> having a ſhort cut to march.</p>
+            <p>30th, The French give out the <hi>Dauphin</hi> will go to the Relief of <hi>Namur,</hi> but 'tis not credited.</p>
+            <p>
+               <hi>Aug.</hi> 3d. Lodgments being made on the Counterſcarp, after a ſharp diſpute, which coſt 400 <hi>Engliſh</hi> and <hi>Dutch,</hi> and all things being prepared for an Aſſault on the Town of <hi>Namur,</hi> the Enemy hung out a White Flag, and deſired a Parly, which was granted, and Hoſtages exchanged,
+<pb n="17" facs="tcp:61383:11"/>and on the 4th. the Capitulation was concluded; and on the 6th. the Garriſon march'd out of the Town into the Caſtle, having the uſual Conditions.</p>
+            <p>
+               <hi>Dixmuyde</hi> and <hi>Deinſe</hi> were betray'd to the <hi>French</hi> by Major General <hi>Ellenberg</hi> a <hi>Dane,</hi> who went away imme<g ref="char:EOLhyphen"/>diately to <hi>Paris,</hi> and by Collonel <hi>O Farrel</hi> an <hi>Iriſh</hi> Man who commanded in the latter: The Garriſons were, con<g ref="char:EOLhyphen"/>trary to the Cartel, detained Priſoners by Mareſchal <hi>Vil<g ref="char:EOLhyphen"/>leroy.</hi>
+            </p>
+            <p>The Marquiſs <hi>de Gaſtanaga</hi> has taken the Field with the <hi>Spaniſh</hi> Army in <hi>Catalonia,</hi> and is marching directly towards the Enemy, in order to oblige them to a Battle.</p>
+            <p>The Great Duke of <hi>Tuſcany</hi> has nam'd a Knight of <hi>Malta</hi> to go in Quality of his Envoy Extraordinary to com<g ref="char:EOLhyphen"/>pliment the King of <hi>Great Britain</hi> upon his Acceſſion to thoſe Crowns.</p>
+            <p>The Allies found in <hi>Cazal</hi> Seventy Pieces of Cannon in the Town, Twenty Pieces, and Four Mortars in the Caſtle, and 120 Pieces, and ſeveral Mortars in the Ci<g ref="char:EOLhyphen"/>tadel, and in the Magazines 2000 Muſquets and Fuſils, 150000 Bullets, 1800 Bombs, 10000 Sacks of Grain of ſeveral ſorts, with abundance of ſalted Meat, and other Proviſions: The Garriſon conſiſted of 3000 Men.</p>
+            <p>The <hi>Tartar Han</hi> ſent to the <hi>Grand Signior</hi> to let him know, that the <hi>Czar</hi> of <hi>Muſcovy</hi> was marching with a numerous Army to attack <hi>Azof;</hi> which would oblige him to keep his Troops at home, for the defence of his own Country. But the Sultan not ſatisfied with this Excuſe, ſent him Word, That laying all Pretences or Apologies aſide, he muſt come with his Forces and join the <hi>Ottoman</hi> Army in <hi>Hungary.</hi> The <hi>Grand Signior</hi> is on his way to <hi>Belgrade,</hi> where moſt of the Troops are already arriv'd.</p>
+            <pb n="18" facs="tcp:61383:12"/>
+            <p>Great Preparations are making in <hi>France</hi> to relieve <hi>Namur:</hi> The Troops from the Coaſts are on their march to join the <hi>French</hi> Army under the Command of the Ma<g ref="char:EOLhyphen"/>reſchal <hi>de Villeroy;</hi> as alſo Troops from other Parts, ſo that he will have a mighty Army when they all have join<g ref="char:EOLhyphen"/>ed him.</p>
+            <p>The Prince <hi>de Vaudemont</hi> ſent to the Mareſchal <hi>de Vil<g ref="char:EOLhyphen"/>leroy</hi> to demand the Garriſons of <hi>Dixmuyde</hi> and <hi>Deinſe;</hi> which was rous'd, and they detained Priſoners, contrary to the Cartel or Agreement for exchange of Priſoners, which was ſetled ſoon after the opening of the War, from the General who is to pay 50000 Livres, which amounts to 4199 <hi>l.</hi> 11 <hi>s.</hi> 8 <hi>d. Sterling,</hi> to the private Centinel, who is to pay 7 Livres and an half, which is Twelve Shillings and Six Pence <hi>Sterling.</hi>
+            </p>
+            <p>The <hi>French</hi> pretended to demoliſh the Fortifications of <hi>Dixmuyde</hi> and <hi>Deinſe,</hi> and threatned the Inhabitants to do it; but it was only to get a Sum of money, which they paid, ſo all was well.</p>
+            <p>The Garriſon and Town of <hi>Namur</hi> retired into the Caſtle according to the Capitulation, breaking down the Bridge between the Town and them. They left behind them 1430 Sick and Wounded men, whereof 140 were Officers. who are to be carried to <hi>Dinant.</hi> They had in the place 2400 Dragoons when the Siege begun, who are reduced to 7 or 800 men. Their whole Garriſon is now computed at 6 or 7000 men.</p>
+            <p>7th. The King reinforced the Prince of <hi>Vaudemont's</hi> Army with 30 Battalions of Foot, and 40 Squadrons of Horſe, and ordered the Earl of <hi>Athlone</hi> to be in readineſs to join them if occaſion, becauſe <hi>Villeroy</hi> was marching towards them,</p>
+            <p>
+               <hi>Aug.</hi> 1ſt. <hi>O. S.</hi> The Confederate Fleet was before <hi>Dun<g ref="char:EOLhyphen"/>kirk,</hi> and ſent in ſome Bomb-Ketches, Fireſhips, and Ma<g ref="char:EOLhyphen"/>chines, with ſeveral light Frigats and Brigantines to pro<g ref="char:EOLhyphen"/>tect
+<pb n="19" facs="tcp:61383:12"/>them againſt the Enemies half Gallies, and other arm<g ref="char:EOLhyphen"/>ed Boats; of which they had a great many. The Bomb-Veſſels fired 8 hours, and threw ſeveral Bombs into the <hi>Rees-bank</hi> and <hi>Peer-heads,</hi> which did ſome damage. But the <hi>French</hi> had ſecured the <hi>Rees-bank</hi> and Woodden Forts with Piles, Bombs, Chains, and floating Pontoons moun<g ref="char:EOLhyphen"/>ted with Cannon; the Machine Ships could not come near enough to have any Effect; whereupon the Frigats and Bomb-Veſſels came away, having received but little da<g ref="char:EOLhyphen"/>mage from the Enemy, only a ſmall <hi>Dutch</hi> Man of War, who in turning out run a ground, and was burnt by the <hi>French,</hi> the men having abandoned her.</p>
+            <p>The <hi>French</hi> Army in <hi>Catalonia</hi> have actually demoliſh<g ref="char:EOLhyphen"/>ed <hi>Caſtle-Follet</hi> and <hi>Oſtalrick,</hi> and are retired towards <hi>Gi<g ref="char:EOLhyphen"/>rone.</hi>
+            </p>
+            <p>The <hi>Engliſh</hi> Frigats have taken within theſe few days ſeveral <hi>French</hi> Privateers near our Coaſts.</p>
+            <p>The <hi>Grand Viſier, Caimacan,</hi> and ſeveral other of the Principal Officers of the <hi>Seraglio,</hi> raiſed by <hi>Sultan Ach<g ref="char:EOLhyphen"/>met,</hi> are ſtrangled by the Command of the new <hi>Grand Signior,</hi> who permits the <hi>Sultana,</hi> Mother, to have great ſhare in, and influence upon him and the Government.</p>
+            <p>Admiral <hi>Ruſſel</hi> in returning from <hi>Cagliari</hi> in <hi>Sardinia</hi> to the Coaſt of <hi>Province</hi> with his whole Fleet, having re<g ref="char:EOLhyphen"/>ceived no damage in the late Storms, as was feared.</p>
+            <p>8th. The Republick of <hi>Venice</hi> is ſending Embaſſadors to the Court of <hi>England.</hi>
+            </p>
+            <p>9th. The <hi>Vaudois</hi> make frequent Incurſions amongſt the <hi>French,</hi> and bring away great Booties; they lately took 50 Mules and Horſes laden with Proviſions, going to <hi>Pignerol.</hi>
+            </p>
+            <p>10th. The Elector of <hi>Saxony</hi> is gone from <hi>Vienna</hi> to the Imperial Army, to take upon him the Command of it; which will be more numerous this Year than was expe<g ref="char:EOLhyphen"/>cted, by the conjunction of the Auxiliary Forces of <hi>Saxo<g ref="char:EOLhyphen"/>ny,
+<pb n="20" facs="tcp:61383:13"/>Denmark,</hi> and <hi>Brandenburgh,</hi> beſides the <hi>Hungarians</hi> and <hi>Radzians,</hi> which together will make an Army of 60000 men.</p>
+            <p>15th. Orders were ſent from the <hi>French</hi> Court to Ma<g ref="char:EOLhyphen"/>reſchal <hi>de Villeroy</hi> to bombard <hi>Bruſſels,</hi> to try by that Di<g ref="char:EOLhyphen"/>verſion to draw the Allies from before <hi>Namur.</hi> But that would not do: However he came with his whole Army before <hi>Bruſſels,</hi> and ſent a Letter to the Governour, to this porpoſe; <hi>That the King, his Maſter, had commanded him to bombard that City, except the Allies would promiſe to bombard none of his Maritime Towns during the War;</hi> and gave him ſix hours for an Anſwer; in which time it was impoſſible to know the King of <hi>England</hi>'s mind. <hi>Villeroy</hi> ad<g ref="char:EOLhyphen"/>ded, <hi>That if the Magiſtrates of</hi> Bruſſels <hi>would give him eight Millions of Livres</hi> (which are about ſeven hundred thou<g ref="char:EOLhyphen"/>ſand Pound <hi>Sterling</hi>) <hi>the damage the Confederate Fleet had done his Maſter's Subjects being computed at that Sum, he would forbear burning.</hi> Both which being denyed, he threw in 4000 Bombs, beſides red hot Balls, which did great da<g ref="char:EOLhyphen"/>mage, and put them into ſome Confuſion and Diſorder for a time: But the Preſence of the Elector of <hi>Bavaria,</hi> and the Care and Conduct of Prince <hi>Vandemont,</hi> prevent<g ref="char:EOLhyphen"/>ed the <hi>French</hi> executing their full Deſigns, who attack'd the Out-works of <hi>Bruſſels,</hi> and were repulſed with loſs. And after ſome damage done, they retired with their whole Army, and marched towards <hi>Namur,</hi> pretending to raiſe the Siege.</p>
+            <p>17th. The Siege of <hi>Namur</hi> goes on ſucceſsfully; the Trenches are carried on a pace; the Enemies in all their Sallies repulſed with great loſs; Mareſchal <hi>de Boufflers</hi> prevented in his deſign of getting out with the Dra<g ref="char:EOLhyphen"/>goons. There are now in Battery planted againſt the Ca<g ref="char:EOLhyphen"/>ſtle and <hi>Cohorne Fort,</hi> above 150 Pieces of Cannon, and 50 Mortars; ſo that in few days the Attack will be made againſt the Counterſcarp.</p>
+            <pb n="21" facs="tcp:61383:13"/>
+            <p>Three thouſand <hi>Bavarian</hi> Soldiers who are to reinfore the <hi>Spaniſh</hi> Army in <hi>Catalonia,</hi> have paſſed the <hi>Streights</hi> un<g ref="char:EOLhyphen"/>der Convoy of two <hi>Dutch</hi> Men of War.</p>
+            <p>19th. Admiral <hi>Ruſſel</hi> is returned to <hi>Barcelona,</hi> with the Fleet under his Command, and had under his Convoy the <hi>Tur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey</hi>-Merchants Ships, which he has ſent away to pro<g ref="char:EOLhyphen"/>ceed with all expedition on their Voyage homeward, being reinforced with three Men of War more.</p>
+            <p>The Forces of the Allies that were before <hi>Ca<g ref="char:EOLhyphen"/>zal</hi> are marched in three Bodies towards <hi>Pignerol</hi> and <hi>Su<g ref="char:EOLhyphen"/>ſa,</hi> whither Mareſchal <hi>Catinat</hi> has ſent ſome Troops to reinforce thoſe Garriſons, and is himſelf encamped at <hi>Dib<g ref="char:EOLhyphen"/>lon,</hi> where he fortifies all the Paſſes.</p>
+            <p>20th. The <hi>Grand Viſier</hi> is advanced a far as <hi>Jagodin</hi> in his march to <hi>Belgrade</hi> with his Army, which is believed to be about 60000 ſtrong. The <hi>Tartar Han,</hi> to comply with the repeated Orders from the <hi>Grand Signior,</hi> is on his march towards <hi>Hungary,</hi> to join the <hi>Ottomans,</hi> The <hi>Muſ<g ref="char:EOLhyphen"/>covites</hi> have taken ſeveral Places from the <hi>Tartars,</hi> and are advanced far into their Country with a vaſt and numerous Army, conſiſting of about 400000 men.</p>
+            <p>The <hi>Coſſacks</hi> have alſo poſſeſſed themſelves of ſeveral Caſtles belong to the <hi>Tartars</hi> on the River <hi>Nioper.</hi>
+            </p>
+            <p>21ſt. The Confederate Army on the <hi>Rhine</hi> is decamp'd, and marched towards <hi>Hailbron,</hi> and pretended to advance toward the Enemy on the other ſide.</p>
+            <p>The <hi>French</hi> quitted <hi>Blanes</hi> in <hi>Catalonia,</hi> after having plundered and demoliſhed the Place.</p>
+            <p>23d. The Detachment from the <hi>Rhine</hi> has joined the Camp before <hi>Namur.</hi> And the <hi>French</hi> Troops from their Coaſts have likewiſe joined the Mareſchal <hi>de Villeroy.</hi>
+            </p>
+            <p>Several <hi>French</hi> Merchant Ships were taken Prizes by the <hi>Engliſh</hi> Cruizers and <hi>Dutch</hi> Privateers.</p>
+            <pb n="20" facs="tcp:61383:14"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="21" facs="tcp:61383:14"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="22" facs="tcp:61383:15"/>
+            <p> The Republick of <hi>Genoa</hi> has ſent an Envoy Extraordi<g ref="char:EOLhyphen"/>nary to the King of <hi>England,</hi> being the firſt time: He is accompanied with ſeveral Perſons of Quality.</p>
+            <p>25th. The Detachment from the <hi>French</hi> Army on the <hi>Rhine,</hi> being about 7 or 8000 men, has joined the Ma<g ref="char:EOLhyphen"/>reſchal <hi>de Villeroy,</hi> who has received Orders from his Ma<g ref="char:EOLhyphen"/>ſter to advance towards the Allies, and to endeavour to force their Campt at <hi>Mazy,</hi> and by that means raiſe the Siege, which now gives the Court ſome Pain, it draw<g ref="char:EOLhyphen"/>ing near a Period one way or other.</p>
+            <p>26th. The Army before the Caſtle of <hi>Namur</hi> preſſes hard on the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ged, repulſes their Sallies, and attacks their Out works with great Courage and Bravery, and has mad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very conſiderable breaches in the Caſtle and Forts. The King ke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ps the <hi>Heſſian</hi> and <hi>Lunenburgh</hi> Foot to aſſiſt at the Siege, but has ſent the Horſe to reinforce the Army, which is very advantageouſly poſted, the Camp being ſtrong by Nature and Art: All things are diſpoſing for a general Aſſault on the Caſtle and Forts of <hi>Namur</hi> at one and the ſame time.</p>
+            <p>16th. <hi>O. S.</hi> The Confederate Fleet came to an Anchor before <hi>Calas;</hi> and the next day about eleven in the Fore<g ref="char:EOLhyphen"/>noon Colonel <hi>Richards</hi> began to bombard the Town, which by one a Clock was on fire in ſeveral places. The <hi>French</hi> came out with their half Gallies, and armed Boats, thinking to annoy the Bomb-Veſſels, but they were beat<g ref="char:EOLhyphen"/>en back and put into Confuſion, and recover'd their <hi>Peer-heads</hi> with difficulty. About two a Clock a Bomb fell in<g ref="char:EOLhyphen"/>to their Magazine, and did great damage; for after this they never fir'd from the Cannon or Mortars, of which they had ſeveral Batteries. There were about 600 Shells thrown in, which did great Execution and has ruin'd great part of the Town.</p>
+            <p>The <hi>Spaniards</hi> in <hi>Ceuta</hi> have kill'd 2000 <hi>Moors,</hi> and beat them out of the Outworks which they gain'd by ſurprize,
+<pb n="23" facs="tcp:61383:15"/>making uſe of a ſcaling Ladders. The Garriſon loſt in this Action but 200 men, with ſome Officers of Note, who were kill'd, and ſome few wounded.</p>
+            <p>27th. His Majeſty left the Camp before the Caſtle, and put himſelf at the Head of the Army at <hi>Mazy;</hi> and ob<g ref="char:EOLhyphen"/>ſerving the <hi>French</hi> Army to quit their Tents, and march in Order of Battle, as if they meant to come to Action, the King alſo embattell'd his Army, and was ready to receive them, and lay all night under their Arms. But the <hi>French</hi> only appear'd before their Lines, and attack'd an Out-Guard, but were ſoon repuls'd, and came on no more. The Breaches in the Caſtle<g ref="char:punc">▪</g> and in the Forts are now wide enough for an Aſſault, which is reſolv'd in a day or two; and all things are diſpoſing to that purpoſe.</p>
+            <p>The <hi>Grand Viſier</hi> is arriv'd at <hi>Belgrade,</hi> and has laid a Bridge over the <hi>Save.</hi> The number of the <hi>Turkiſh</hi> Army is not yet certainly known; but 'tis confirm'd that the <hi>Cham</hi> of <hi>Tartary</hi> is return'd home to defend his own Coun<g ref="char:EOLhyphen"/>try againſt the <hi>Moſcovites.</hi>
+            </p>
+            <p>The Elector of <hi>Saxony</hi> is arriv'd in the Imperial Camp at <hi>Fuſack:</hi> He came by Water from <hi>Buda,</hi> and was re<g ref="char:EOLhyphen"/>ceiv'd at his Landing by General <hi>Caprara,</hi> and the Prin<g ref="char:EOLhyphen"/>cipal Officers, with a Diſcharge of all the Artillery of the Army.</p>
+            <p>30th. A general Aſſalt was made upon the Caſtle of <hi>Namur,</hi> the <hi>Cohorne,</hi> and <hi>Cazotte</hi> Forts. The <hi>Engliſh</hi> and <hi>Scots</hi> under the Command of my Lord <hi>Cuts,</hi> attack'd the Counteſcarp and Breach of the <hi>Terra Nova,</hi> being a De<g ref="char:EOLhyphen"/>tachment of Grenadiers from the Army, and four Regi<g ref="char:EOLhyphen"/>ments of Foot. Three thouſand <hi>Spaniards</hi> and <hi>Bavarians</hi> with Count <hi>Rivera,</hi> a Major General, at the Head of them, attack'd the <hi>Cohorne</hi> on the ſide next the <hi>Terra Nova.</hi> Two thouſand <hi>Brandenburghers</hi> under the Conduct of Major General <hi>le Cave,</hi> attack'd the <hi>Cohorne</hi> on the Right of the <hi>Spaniards.</hi> Major General <hi>Swerin</hi> attack'd the <hi>Cazotte</hi> with
+<pb n="24" facs="tcp:61383:16"/>2000 <hi>Dutch;</hi> and a Collonel with about 2000 men attack<g ref="char:EOLhyphen"/>ed the <hi>Lower Town.</hi> The <hi>Engliſh</hi> and <hi>Scots</hi> advanc'd with great Courage and Reſolution, and gain'd the top of the Breach through abundance of Fire on both ſides, but found the Enemy ſo advantageouſly poſted and intrench'd behind the Breache, with the Ground on their ſide ſo very bad, ſo that they could not advance in any Front, and ſo thought ſit to retire. The <hi>Spaniſh</hi> Major General was kill'd upon approaching the <hi>Cohorne;</hi> but the <hi>Bavarians</hi> took Poſt up<g ref="char:EOLhyphen"/>on an Angle of the Counterſcarp, and maintain'd a hot Fire with the <hi>French,</hi> who diſputed hard to diſlodge them. And when moſt of the <hi>Bavarian</hi> Officers of the Guards were kill'd and wounded, and that the other Regiments had ſuffer'd very much, the Enemy continu<g ref="char:EOLhyphen"/>ing their Fire with a great deal of Obſtinacy, the <hi>Engliſh</hi> who had left the <hi>Terra Nova,</hi> not being able to do any thing on that ſide, ſupported the <hi>Spaniards</hi> and <hi>Bavarians,</hi> with my Lord <hi>Cutts</hi> at the Head of them; who at the ſame time order'd a Lieutenant of Collonel <hi>Mackay</hi>'s Regiment with 30 men to paſs the Paliſades and attack a Battery of the Enemies, which he ſucceſsfully executed, turning 7 of their own Cannon againſt them, ſecuring at the ſame time ſome of their Mines: the <hi>Engliſh</hi> and <hi>Bavarians</hi> planting their Colours on the Paliſades, afterwards made a very god Lodgment.</p>
+            <p>During this Action, Major General <hi>de Cave</hi> with the <hi>Bran<g ref="char:EOLhyphen"/>denburghers,</hi> and Major General <hi>Swerin</hi> with the <hi>Dutch,</hi> each of them made a Lodgment, which put the <hi>French</hi> upon thought of Capitulation; which they now deſire, and Hoſtages are exchanged. In this brisk Aſſault my Lord <hi>Cutts</hi> was wounded, together with 54 Commiſſion'd Offi<g ref="char:EOLhyphen"/>cers, and 682 private Centinels, and 19 Commiſſions'd Of<g ref="char:EOLhyphen"/>ficers, and 319 private Soldiers kill'd, being the whole that were loſt and diſabled of the Detachment which my Lord <hi>Cutts</hi> commanded in that Service. The Beſieg'd would
+<pb n="25" facs="tcp:61383:16"/>have capitulated but for the <hi>Cohorn</hi> alone, but being re<g ref="char:EOLhyphen"/>refus'd they agreed for the whole; they demand<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to daies to expect Succours, but were only granted, the Articles were ſuch as are uſual.</p>
+            <p>
+               <hi>Sept.</hi> 2d. This morning the Capitulation for the ſur<g ref="char:EOLhyphen"/>render of the Caſtle, and all the other Forts and Works of <hi>Namur</hi> was ſign'd, and the Allies immedately to<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k poſſeſſion of part of the outworks. The Articles are too long and tedious to mention, it ſhall ſuffice to ſay that the <hi>French</hi> behav'd themſelves very well in the defence of the place, deſerv'd and had very good conditions.</p>
+            <p>The Mareſchal <hi>de Villeroy</hi> the <hi>French</hi> General at the head of a hundered thouſand Men drawn from the <hi>Rhine,</hi> the Coaſts and other parts of <hi>France,</hi> had the great pleaſure and ſatisfaction to be Spectators of the Bravery and Conduct of the Allies, who in ſight of this vaſt Army, the Flower of all <hi>France,</hi> attack'd and to<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k it fairly, inch by inch, with Sword in hand, and not with treacherous Gold, as the <hi>French</hi> us'd to do it; and what yet raiſes the Valour and advances the Honour of the Confederates, the Gar<g ref="char:EOLhyphen"/>riſon was a ſmall Army conſiſting according to their own accounts of 14000 fighting Men, all choſen Troops, with a Mareſchal of <hi>France,</hi> and ſeveral General Officers and Principal Engineers, to encourage them, and were well provided with all things neceſſary to make a ſtout De<g ref="char:EOLhyphen"/>fence, to which may be added the ſtrength of the Place, by new and conſiderable Works, which coſt no leſs than three hundred thouſand Pounds Sterling, which occaſion'd Mounſieur to believe it to be Impregnable, and put the <hi>French</hi> King himſelf upon aſſuring the Foreign Miniſters at his Court, that coſt it what it wou'd, it ſhould be reliev'd, tho his Moſt Chriſtian Majeſty was extremly baulk'd when he found the Contrary.</p>
+            <pb n="26" facs="tcp:61383:17"/>
+            <p>The Squadron of Men of <hi>War</hi> under the Command of Cap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain <hi>Wilmot,</hi> and the Land Forces under the Conduct of Collonel <hi>Littleton</hi> have taken and ruin'd the <hi>Cape Farn<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>is,</hi> b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing the Eaſtermoſt ſettlement the <hi>French</hi> had upon <hi>Hi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>panio<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a,</hi> which is confirm'd by all the Merchants Letters that came lately from <hi>Jamaica,</hi> and that they were gone <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> further expedition.</p>
+            <p>Sir <hi>George Rook</hi> is going to <hi>Cadiz</hi> with a Squadron of three deckſhips, to reinforce and relieve Admiral <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uffel,</hi> who will return with the Great Ships under his Command, as ſoon as the Compaign ends in <hi>Catalonia.</hi>
+            </p>
+            <p>3d. <hi>N. S.</hi> The Duke of <hi>Savoy</hi> was indiſpos'd, which <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>'d to a Double Ter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ian Ague, but is now ſo well a<g ref="char:EOLhyphen"/>gain, that he is preparing to go to the Army, which is <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>w joyn'd by the Troops of the Allies, and in full <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h for ſome new Enterprize, having Bombs, Carcaſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>attering Cannons, and all other neceſſaries for a Siege, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 'tis believ'd their Eye is on <hi>Suſa,</hi> or <hi>Pignerol,</hi> which a little time with declare. The <hi>French</hi> Army under the Command of Mareſchal <hi>de Catinat</hi> continue in their Camp at <hi>Diblon,</hi> without pretending to attempt any thing, ra<g ref="char:EOLhyphen"/>ther ſeeming contented to defend themſelves, having built ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>veral new Forts and Redoubts, and fortified their Camp, and ſecured their Paſſes, withall imaginable Care and Cau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion.</p>
+            <p>And Engagement is hourly expected between the <hi>Veneti<g ref="char:EOLhyphen"/>an</hi> and <hi>Ottoman</hi> Fleets, they being near each other, and reſolv'd to come to Blows, their force is pretty equal; the Chri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Fleet conſiſts of 23 Sail of Men of War, 22 Gal<g ref="char:EOLhyphen"/>lies, 6 Gallicaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, 4 Bombſhips, and between 8 and 9000 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oldiers. The infidels have 33 Men of War, 18 Gallies, and 13 Galliots. What the <hi>Venetians</hi> want in number, is made up in bigneſs, their Men of War being larger than the <hi>Turks.</hi>
+            </p>
+            <pb n="27" facs="tcp:61383:17"/>
+            <p>4th. The Grand Signior is arriv'd at <hi>Belgrade,</hi> and has abandon'd his deſign on <hi>Peterwaredin,</hi> and is marched with his Army into <hi>Tranſilvania,</hi> thereby to draw the Im<g ref="char:EOLhyphen"/>perial Army after him, that they may come to a fair Battle, which the Sultain, by his meaſures ſeems chiefly to aim at. The <hi>Tartar Han,</hi> notwithſtanding the Invaſion of his own Country by the <hi>Moſcovites,</hi> has joyn'd the <hi>Ottoman</hi> Army with a ſmall body of his Troops, ſo diſpotick are the Grand Signiors Commands.</p>
+            <p>5th. The <hi>French</hi> Court has been ſufficiently mortified at the news of the ſurrender of the Caſtle of <hi>Namur,</hi> and the more, becauſe they did not believe it could be taken by the Allies, flattering themſelves that Mareſchal <hi>Ville<g ref="char:EOLhyphen"/>roy</hi> with his huge Army would ſcare the Allies from their Campt at <hi>Maſy,</hi> and the Beſiegers from their Trenches. A Fire at <hi>Toulon</hi> has conſum'd a great quantity of Bisket, baked for the uſe of the <hi>French</hi> Squadron ſitting out there, which will retard their going out very much.</p>
+            <p>5th. <hi>N. S.</hi> the Garriſon of the Caſtle of <hi>Namur</hi> mar<g ref="char:EOLhyphen"/>ched out at the breach of <hi>Terra Nova,</hi> being reduced to 4190 Foot, and 1205 Dragoons, of which only 160 were mounted: 3 or 4 Battalions of the Foot, and all the Dra<g ref="char:EOLhyphen"/>goons were briſque and Gallant Men, but the remainder, which was greateſt part of the Infantry, were very con<g ref="char:EOLhyphen"/>temptible, Mareſchal <hi>de Boufflers,</hi> and Count <hi>de Guiſcard</hi> the Governour at the Head of the with their Swords drawn: The Elector of <hi>Bavaria</hi> was on Horſeback to ſee them, and the King of <hi>England</hi> was in Cognito, with the Duke of <hi>Ormond</hi> in his Coach.</p>
+            <p>Mareſchal <hi>Boufflers</hi> was arreſted in the Name of the Allies, and carried back to the Town of <hi>Namur,</hi> and thence remo<g ref="char:EOLhyphen"/>ved to <hi>Maeſtrick't,</hi> and there detained Priſoner, becauſe his Moſt Chriſtian Majeſty had broke the Cartel, or agreement for Ranſom and exchange of Priſoners, by refuſing to ſend back the Garriſons of <hi>Dixmuyde</hi> and <hi>Deinſe.</hi> Great quanti<g ref="char:EOLhyphen"/>ties
+<pb n="28" facs="tcp:61383:18"/>of Cannon, Mortars, Bombs, Granades, Balls of Iron and Lead, Powder, ſpare Arms, and other Proviſions, both of Mouth and War was found in the Caſtle, where indeed nothing was wanting for the defence of the Place, which might have held out longer, but <hi>Boufflers</hi> was unwilling to hazard the lives of his Soldiers in another Storm, which the Beſiegers were preparing, ſome Cannon and a good deal of Powder was thrown by the <hi>French</hi> in<g ref="char:EOLhyphen"/>to the <hi>Sambre</hi> after the Capitulation. The <hi>French</hi> Army under the Command of Mareſchal <hi>de Villeroy</hi> decmp'd ſi<g ref="char:EOLhyphen"/>lently, and made great marches to recover the Lines, ha<g ref="char:EOLhyphen"/>ving reinforc'd the Garriſons of <hi>Dinant, Phillipville</hi> and others. The King of <hi>England</hi> is marched after the <hi>French,</hi> to ſecure <hi>Flanders,</hi> and to diſpoſe his Troops into Winter Quarters, having left a conſiderable body at <hi>Namur</hi> to level the Trenches and other Works, and to repair the Breaches.</p>
+            <p>3d. <hi>O. S.</hi> A violent Storm happen'd, in which ſome laden Colliers were loſt on the North Coaſt of <hi>England.</hi>
+            </p>
+            <p>7th. <hi>N. S. Palomos</hi> in <hi>Catalonia</hi> is actually beſieged by the <hi>Spaniſh</hi> Army, and Admiral <hi>Ruſſel</hi> was come before it, and had landed 3000 men to aſſiſt them, and had fired 120 Bombs into the Town with good ſucceſs, but the Troops from <hi>Flanders</hi> having joyned the <hi>Spaniards,</hi> and the <hi>Engliſh</hi> Admiral receiving intelligence that the <hi>French</hi> were fitting out their Fleet at <hi>Toulon,</hi> he immediate<g ref="char:EOLhyphen"/>ly reimbarked the <hi>Engliſh,</hi> and ſail'd to the Coaſt of <hi>Province,</hi> to prevent their Fleets putting to Sea, who pre<g ref="char:EOLhyphen"/>tended only to tranſport ſome Troops to <hi>Catalonia,</hi> but really intended to repaſs the Straights, and joyn the reſt of of their Ships at <hi>Breſt.</hi>
+            </p>
+            <pb n="29" facs="tcp:61383:18"/>
+            <p>9th. Nothing is expected from the Armies on the <hi>Rhine,</hi> for they begin to talk of marching into Winter Quarers.</p>
+            <p>The <hi>Turks</hi> and Imperial Armies are near one another, and a Battle is expected on that ſide.</p>
+            <p>The <hi>French</hi> Court was not a little troubled at the Ar<g ref="char:EOLhyphen"/>reſting of Mareſchal <hi>de Boufflers,</hi> which has made them reſolve to ſend back forthwith the Garriſons of <hi>Dixmuyde</hi> and <hi>Deinſe,</hi> according to the Capitulation and Cartile. <hi>Boufflers</hi> is for his good Services made a Duke and Peer of <hi>France,</hi> and has obtained his Liberty upon his Parole of Honour, that upon his arrival at <hi>Di<g ref="char:EOLhyphen"/>nant,</hi> the aforeſaid Garriſons ſhall be immedeately re<g ref="char:EOLhyphen"/>turned.</p>
+            <p>12th. The <hi>French</hi> Army is encamped at <hi>Cambron</hi> near <hi>Aeth,</hi> and the Army of the Allies at <hi>Limbeck.</hi>
+            </p>
+            <p>The unexpected Return of Admiral <hi>Ruſſel</hi> on the Coaſt of <hi>Province,</hi> has not only allarumed 'em mighti<g ref="char:EOLhyphen"/>ly, but broke their meaſures, for the Troops which have been their Guards this Summer, were on their March to joyn their Army in <hi>Catalonia,</hi> but are now countermanded, and returning to cover <hi>Marſeilles</hi> and <hi>Toulon,</hi> and a ſtop is put to the fitting out the <hi>French</hi> Fleet, and the very Ships that were ready and at an Anchor in the Road, are come back into the Port.</p>
+            <p>The Marquis <hi>de Neſmonde,</hi> who went out of <hi>Breſt</hi> ſome time ſince with a Squadron of 6 Men of War and a Fire<g ref="char:EOLhyphen"/>ſhip is returned, having brought with him two rich <hi>Eng<g ref="char:EOLhyphen"/>liſh Eaſt-India</hi>-men, called the <hi>Prince of Denmark,</hi> and the <hi>Seymour,</hi> which he took 150 Leagues from the Weſt of <hi>Scilly.</hi>
+            </p>
+            <pb n="22" facs="tcp:61383:19"/>
+            <p>14th. The King of <hi>England</hi> left the Army at <hi>Lim<g ref="char:EOLhyphen"/>beck,</hi> under the Command of the Elector of <hi>Bavaria,</hi> and is gone to <hi>Loo,</hi> where his Majeſty will make a ſhort ſtay, and thence to the <hi>Hague,</hi> and as ſoon as the Convoy arrives from <hi>England,</hi> will embark.</p>
+            <p>The Late Great Rains that have fallen in <hi>Flan<g ref="char:EOLhyphen"/>ders</hi> will its thought ſoon put and end to the Campaign.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:61383:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
